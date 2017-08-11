@@ -12,7 +12,7 @@ public class Greeter {
 
   }
   
-/** java doc comment
+/**
  *@param someone
  *@retunr
  */
